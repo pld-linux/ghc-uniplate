@@ -6,7 +6,7 @@ Release:	1
 License:	BSD
 Group:		Development/Languages
 Source0:	http://hackage.haskell.org/packages/archive/%{pkgname}/%{version}/%{pkgname}-%{version}.tar.gz
-# Source0-md5:	84527579892c1ea8a66fc3eba3827ef0
+# Source0-md5:	869407a47843ee74bd8eb8607ae712d0
 URL:		http://hackage.haskell.org/package/uniplate/
 BuildRequires:	ghc >= 6.12.3
 BuildRequires:	rpmbuild(macros) >= 1.608
