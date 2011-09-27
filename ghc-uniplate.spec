@@ -1,8 +1,8 @@
 %define		pkgname	uniplate
 Summary:	Help writing simple, concise and fast generic operations
 Name:		ghc-%{pkgname}
-Version:	1.6
-Release:	4
+Version:	1.6.2
+Release:	1
 License:	BSD
 Group:		Development/Languages
 Source0:	http://hackage.haskell.org/packages/archive/%{pkgname}/%{version}/%{pkgname}-%{version}.tar.gz
