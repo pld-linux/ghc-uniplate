@@ -7,7 +7,7 @@ Summary:	Help writing simple, concise and fast generic operations
 Summary(pl.UTF-8):	Pomoc przy pisaniu prostych, zwięzłych i szybkich ogólnych operacji
 Name:		ghc-%{pkgname}
 Version:	1.6.12
-Release:	2
+Release:	3
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/uniplate
